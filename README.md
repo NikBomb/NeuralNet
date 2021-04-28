@@ -9,7 +9,7 @@ Implementation of Neural networks from Michael Nielsen's "Neural Networks and De
 
 The project uses:
 - the Eigen Library http://eigen.tuxfamily.org/index.php?title=Main_Page
-- the MNIST dataset http://yann.lecun.com/exdb/mnist/ 
+- the MNIST dataset http://yann.lecun.com/exdb/mnist/index.html 
 - a modified MNIST reader inspired by https://github.com/arpaka/mnist-loader
 
 The dependencies are embedded in the project.
